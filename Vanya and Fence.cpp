@@ -18,10 +18,5 @@ int main()
                     width++;
             }
             cout << width << endl;
-            cout << "press q to quit or any other key to continue" << endl;
-            char exit;
-            cin >> exit;
-            if(exit == 'q')
-                break; 
         }
     }
