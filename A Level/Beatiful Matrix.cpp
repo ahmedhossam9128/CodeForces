@@ -47,7 +47,6 @@ int main()
             j++;
         }
     }
-    // print_matrix();
     cout << swaps;
     return 0;
 }
