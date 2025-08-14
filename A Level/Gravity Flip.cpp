@@ -14,6 +14,7 @@ int main()
         cin >> *(box+i);
     }
     sort(box, n);
+    
     for(int i = 0; i < n; i++)
     {
         cout << *(box+i) << " ";

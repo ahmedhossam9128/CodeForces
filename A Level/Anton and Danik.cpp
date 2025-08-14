@@ -11,6 +11,7 @@ int main()
         if(n > 0 && n <100000)
             break;
     }
+    
     int Anton = 0;
     int Danik = 0;
     string s;

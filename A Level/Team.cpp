@@ -16,6 +16,7 @@ int main()
             if((Petya & Vasya ) || (Petya & Tonya) || (Vasya & Tonya))
                 implementations++;
         }
+        
     cout << implementations << endl;
     return 0;
 }
