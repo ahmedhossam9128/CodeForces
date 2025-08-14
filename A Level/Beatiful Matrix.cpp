@@ -60,6 +60,7 @@ void swap_row(int i, int a)
                 Matrix[i][j] = Matrix[i+a][j];
                 Matrix[i+a][j] = temp;
             }
+            
         //print_matrix();
         swaps++;
         return;

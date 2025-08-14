@@ -17,6 +17,7 @@ int main()
                 else 
                     width++;
             }
+            
             cout << width << endl;
             return 0;
         }
