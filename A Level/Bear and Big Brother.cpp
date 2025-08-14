@@ -19,6 +19,5 @@ for(years; ;years++)
     b*=2;
 }
     cout << years << endl;   
-    return 0;
-    
+    return 0;    
 }
